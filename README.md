@@ -19,7 +19,7 @@ ShellTube is a command-line utility that allows users to effortlessly download v
 2. Paste any of the following commands:
 
 ```
-https://cutt.ly/shelltube
+irm cutt.ly/shelltube | iex
 ```
 
 or
