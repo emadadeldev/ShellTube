@@ -13,14 +13,19 @@
 ### ShellTube Overview
 ShellTube is a command-line utility that allows users to effortlessly download videos from YouTube. Built with ease of use in mind, ShellTube provides a straightforward interface for fetching video content directly.
 
-## Usage
+## ⚡ Usage (Windows 10/11)
 
-<h3>On Windows 10/11:</h3>
-<ol>
-<li>Right-click on the Start menu.</li>
-<li>Choose "PowerShell" or "Terminal" and paste any of the following commands:</li>
-</ol>
+1. Right-click Start → PowerShell  
+2. Paste any of the following commands:
 
-<pre><code>irm https://github.com/emadadeldev/shelltube/releases/latest/download/st.ps1 | iex</code></pre>
+```
+https://cutt.ly/shelltube
+```
+
+or
+
+```
+irm https://github.com/emadadeldev/shelltube/releases/latest/download/st.ps1 | iex
+```
 
 ### It's available on [ITT](https://github.com/emadadeldev/ittea) too
